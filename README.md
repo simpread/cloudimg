@@ -1,2 +1,2 @@
 # cloudimg
-img_cloud
+picgo个人图床
